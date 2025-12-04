@@ -38,4 +38,4 @@ Finally, before exiting the program, all nodes are deleted from memory using a c
 
 Overall, linked lists are a powerful and flexible data structure. They allow efficient insertion and deletion and are widely used in many real-world applications like memory management, file systems, and implementing stacks and queues.
 
-OUTPUT IMAGE:-
+OUTPUT IMAGE:-<img width="1916" height="1022" alt="Image" src="https://github.com/user-attachments/assets/131ca466-5d90-427f-8dc6-6069716708e8" />
